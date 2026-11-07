@@ -1,8 +1,8 @@
 /* global __FILES__ */
 /* Service worker TraceTaRoute : app disponible hors connexion.
    Généré au build par app/vite-plugin-sw.ts (la liste des fichiers remplace __FILES__). */
-const CACHE = 'ttr-f2416b22a966';
-const FILES = ["./","apple-touch-icon.png","assets/atkinson-hyperlegible-latin-400-normal-BrHNak5F.woff2","assets/atkinson-hyperlegible-latin-700-normal-GZI4o3u0.woff2","assets/baloo-2-latin-700-normal-CqTg7A15.woff2","assets/baloo-2-latin-800-normal-BbF3Etk1.woff2","assets/index-B16HepYl.css","assets/index-Dfqxln_i.js","favicon.svg","icon-192.png","icon-512.png","icon-maskable-512.png","manifest.webmanifest"];
+const CACHE = 'ttr-1eee1c760361';
+const FILES = ["./","apple-touch-icon.png","assets/atkinson-hyperlegible-latin-400-normal-BrHNak5F.woff2","assets/atkinson-hyperlegible-latin-700-normal-GZI4o3u0.woff2","assets/baloo-2-latin-700-normal-CqTg7A15.woff2","assets/baloo-2-latin-800-normal-BbF3Etk1.woff2","assets/index-Rrf0wotM.js","assets/index-Xody_nBn.css","favicon.svg","icon-192.png","icon-512.png","icon-maskable-512.png","manifest.webmanifest"];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
