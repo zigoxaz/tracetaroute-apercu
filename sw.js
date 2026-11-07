@@ -1,8 +1,8 @@
 /* global __FILES__ */
 /* Service worker TraceTaRoute : app disponible hors connexion.
    Généré au build par app/vite-plugin-sw.ts (la liste des fichiers remplace __FILES__). */
-const CACHE = 'ttr-1e7eb8544c2f';
-const FILES = ["./","apple-touch-icon.png","assets/index-CwL2cFAC.js","assets/index-DZ5Vnp3u.css","favicon.svg","icon-192.png","icon-512.png","icon-maskable-512.png","manifest.webmanifest"];
+const CACHE = 'ttr-d4aa3f441441';
+const FILES = ["./","apple-touch-icon.png","assets/index-Rl8tEf_k.js","assets/index-ShsFitTO.css","favicon.svg","icon-192.png","icon-512.png","icon-maskable-512.png","manifest.webmanifest"];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
